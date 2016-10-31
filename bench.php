@@ -12,7 +12,8 @@
 #  Website     : http://www.php-benchmark-script.com                     #	
 #                                                                        #
 ##########################################################################
-*/123123
+some text
+*/
 
 set_time_limit(0);
 
